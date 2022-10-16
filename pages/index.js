@@ -22,7 +22,7 @@ export async function getStaticProps() {
 export default function IndexPage({ merchant, categories, products }) {
   return (
     <React.Fragment>
-      <h1>this is my site</h1>
+      <h1>Trident Custom Sportswear</h1>
 
       <h3>
         <Link href="/categories">
